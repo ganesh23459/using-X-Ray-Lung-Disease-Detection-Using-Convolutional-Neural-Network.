@@ -1,0 +1,16 @@
+<!-- upload.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Upload X-ray</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body class="dark-bg center">
+  <form method="POST" enctype="multipart/form-data" class="glass-box">
+    <h2>Upload Chest X-ray</h2>
+    <input type="file" name="file" accept="image/*" required />
+    <button type="submit">Analyze</button>
+    <p><a href="/logout">Logout</a></p>
+  </form>
+</body>
+</html>
