@@ -53,7 +53,6 @@ lung-disease-detection/
 ## 🤝 Contributors
 
 - Ganesh Totiger
-- [Your Teammates' Names Here]
 
 ## 📜 License
 
